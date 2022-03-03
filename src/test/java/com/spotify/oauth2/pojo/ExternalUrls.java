@@ -10,7 +10,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 
 @Generated("jsonschema2pojo")
 public class ExternalUrls {
-
+// This comment is from github account
     @JsonProperty("spotify")
     private String spotify;
 
